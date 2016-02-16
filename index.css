@@ -5,3 +5,8 @@ body {
 section {
 
 }
+
+.logo {
+  height: 3vw;
+  width: auto;
+}
